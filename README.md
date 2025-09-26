@@ -11,7 +11,7 @@ Incluye un **cliente en consola** que interactua con la API.
 
 PFO2-GarciaQuintans/  
 │── templates/  
-│ └── tareas.html #Página de bienvenida  
+│ └── tareas.html # Página de bienvenida  
 │── cliente.py # Cliente en consola  
 │── database.py # Conexión y consultas a SQLite  
 │── database.sqlite # Base de datos (se crea automáticamente)  
@@ -23,7 +23,7 @@ PFO2-GarciaQuintans/
 
 1. **Clonar el respositorio**
 
-        git clone <>  
+        git clone https://github.com/MacaGQ/PFO2-Redes-API-Gestion-de-Tareas>  
         cd PFO2-GarciaQuintans
 
 2. **Instalar dependencias**  
